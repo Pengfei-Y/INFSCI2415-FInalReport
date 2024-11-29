@@ -1,2 +1,2 @@
 # INFSCI2415-FInalReport
-This is for INFSCI2415 final report
+You can find INFSCI2415-finalReport in the code area.
